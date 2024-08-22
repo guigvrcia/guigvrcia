@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Bem vindo ao meu cantinho no GitHub!** Aqui publico meus exercícios de programação e eventuais projetos futuros! 
+<!--**Bem vindo ao meu cantinho no GitHub!** Aqui publico meus exercícios de programação e eventuais projetos futuros! 
 
 Here are some ideas to get you started:
 
